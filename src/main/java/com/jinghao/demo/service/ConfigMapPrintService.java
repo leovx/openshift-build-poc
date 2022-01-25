@@ -14,7 +14,7 @@ public class ConfigMapPrintService {
 
     @Scheduled(fixedRate = 1000)
     public void printVar() {
-        log.info(pocVar + "!!!");
+        log.info(pocVar + "!@#");
     }
 
 }
